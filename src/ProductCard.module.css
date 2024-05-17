@@ -1,0 +1,26 @@
+.ProductCard{
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 15px;
+    p{
+        margin: auto 15px;
+    }
+    h3{
+        margin: auto 15px;
+    }
+    img{
+        margin: auto 30px;
+        width: 54px;
+    }
+    a{
+        margin: auto;
+        padding: 5px 50px;
+        border: 1px solid #366EC0;
+        border-radius: 15px;
+    }
+    a:hover{
+        background-color: red;
+    }
+}
